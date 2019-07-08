@@ -5,6 +5,7 @@ yellow
 blue
 unicorn
 indigo
+pony
 red
 purple
-i make some unicorns
+i make some unicorns and pony
