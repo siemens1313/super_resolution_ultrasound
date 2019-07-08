@@ -4,6 +4,7 @@ green
 yellow
 blue
 unicorn
+indigo
 red
 purple
 i make some unicorns
