@@ -3,3 +3,4 @@ this is a poam for rainbow.
 green
 yellow
 blue
+red
